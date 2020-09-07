@@ -13,9 +13,6 @@ export default function Home() {
         <p>
           need a developer? <a href="/contact">Contact Us</a>
         </p>
-        <p>
-          Need a developer? <Link to="/contact">Contact Me</Link>
-        </p>
       </div>
     </Layout>
   )
